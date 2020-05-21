@@ -1,0 +1,5 @@
+LSB Version:	core-9.20170808ubuntu1-noarch:security-9.20170808ubuntu1-noarch
+Distributor ID:	Ubuntu
+Description:	Ubuntu 18.04.3 LTS
+Release:	18.04
+Codename:	bionic
